@@ -1,6 +1,6 @@
 brew install 1password-cli
 brew install 1password@beta
-brew install aerospace
+
 brew install alt-tab
 brew install cleanshot
 brew install fantastical
